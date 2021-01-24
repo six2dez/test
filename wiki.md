@@ -14,10 +14,9 @@
  
 
 # Installation Guide
-# 
-#
+  
 ## Configuring Go
-#  
+
 ### From Binary
 ```sh
 $ wget https://golang.org/dl/go1.15.7.linux-amd64.tar.gz
