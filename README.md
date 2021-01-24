@@ -54,6 +54,15 @@ $ cd reconFTW
 $ chmod +x *.sh
 $ ./install.sh
 ```
+hola
+
+```bash
+git clone https://github.com/six2dez/reconftw
+cd reconftw
+chmod +x *.sh
+./install.sh
+./reconftw.sh -d target.com -a
+```
 
 <p align="center">
   <a href="https://github.com/s0md3v/Photon/wiki">Photon Wiki</a> •
