@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Incredibly fast crawler designed for OSINT.</h4>
+<h4 align="center">Automated framework for performing recon</h4>
 
 <p align="center">
   <a href="https://github.com/s0md3v/Photon/releases">
