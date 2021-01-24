@@ -60,10 +60,10 @@ chmod +x *.sh
   - amass (~/.config/amass/config.ini)
   - subfinder (~/.config/subfinder/config.yaml)
   - git-hound (~/.githound/config.yml)
-  - github-endpoints.py (GITHUB_TOKEN env var)
+  - github-endpoints.py (```GITHUB_TOKEN``` env var)
   - favup (```shodan init <SHODANPAIDAPIKEY>```)
-  - SSRF Server (COLLAB_SERVER env var) 
-  - Blind XSS Server (XSS_SERVER env var) 
+  - SSRF Server (```COLLAB_SERVER``` env var) 
+  - Blind XSS Server (```XSS_SERVER``` env var) 
 - This script uses dalfox with blind-xss option, you must change to your own server, check xsshunter.com.
 
 ## Usage
