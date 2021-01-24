@@ -68,8 +68,8 @@ MODE OPTIONS
 -a               Perform all checks
 -s               Full subdomains scan (Subs, tko and probe)
 -g               Google dorks searchs
--w               Perform web checks only without subs ***(-l required)***
--t               Check subdomain takeover***(-l required)***
+-w               Perform web checks only without subs (-l required)
+-t               Check subdomain takeover(-l required)
 -i               Check all needed tools
 -v               Debug/verbose mode, no file descriptor redir
 -h               Show this help
