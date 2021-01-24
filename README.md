@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/six2dez/reconftw/releases/tag/0.9-beta1">
-    <img src="https://img.shields.io/badge/release-0.9--beta1-blue">
+    <img src="https://img.shields.io/badge/release-0.9--beta1-green">
   </a>
   <a href="https://pypi.org/project/photon/">
     <img src="https://img.shields.io/badge/twitter-%40Six2dez1-blue"
