@@ -56,12 +56,12 @@ chmod +x *.sh
 ./reconftw.sh -d target.com -a
 ```
 
-- It is highly recommended, and in some cases essential, set your api keys or env vars:
+- It is highly recommended, and in some cases essential, to set your api keys or env variables:
   - amass (~/.config/amass/config.ini)
   - subfinder (~/.config/subfinder/config.yaml)
   - git-hound (~/.githound/config.yml)
   - github-endpoints.py (GITHUB_TOKEN env var)
-  - favup (shodan init SHODANPAIDAPIKEY)
+  - favup (```shodan init <SHODANPAIDAPIKEY>```)
   - SSRF Server (COLLAB_SERVER env var) 
   - Blind XSS Server (XSS_SERVER env var) 
 - This script uses dalfox with blind-xss option, you must change to your own server, check xsshunter.com.
