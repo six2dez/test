@@ -12,6 +12,10 @@
   <a href="https://github.com/six2dez/reconftw/releases/tag/0.9-beta1">
     <img src="https://img.shields.io/badge/release-0.9--beta1-green">
   </a>
+   </a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
+      <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
+  </a>
   <a href="/">
     <img src="https://img.shields.io/badge/forks-2k%2B-yellow"
          alt="pypi">
