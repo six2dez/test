@@ -39,7 +39,7 @@ $ ./install.sh
 # Post Installation Guide
   
 ## Amass Config
-You will need a config file to use your API keys with Amass
+You will need a config file to use your API keys with Amass.  
 See the [Example Configuration File](https://github.com/OWASP/Amass/blob/master/examples/config.ini) for more details.
 | Operating System | Path |
 | ---------------- | ---- |
