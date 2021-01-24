@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Installation Guide](#Installation-Guide)
-* [Post Installation Guide](#PostInstallationConfiguration)
+* [Post Installation Guide](#PostInstallationguide)
   * [Amass Config](#Amass-Config)
   * [Subfinder Config](#Subfinder-Config)
   * [Git-hound Config](#GitHound-Config)
