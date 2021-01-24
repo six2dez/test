@@ -27,7 +27,7 @@
 
 :warning: ***Warning*** :warning:
 
-This is a live development project, until the first stable release (1.0) it will be constantly updated in master branch, so if you have detected any bug, you can open an issue or ping me over Telegram (@six2dez) or Twitter (@six2dez1) and I will try to do my best :)
+This is a live development project, until the first stable release (1.0) it will be constantly updated in master branch, so if you have detected any bug, you can open an issue or ping me over Telegram (@six2dez) or Twitter(https://twitter.com/Six2dez1) and I will try to do my best :)
 
 # Table of Contents
 -   [Summary](#summary)
