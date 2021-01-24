@@ -32,7 +32,7 @@ This is a live development project, until the first stable release (1.0) it will
 # Table of Contents
 -   [Summary](#summary)
 -   [Installation](#installation)
--   [Features](#features)
+-   [Usage](#usage)
 -   [Mindmap](#mindmapworkflow)
 -   [Requirements](#requirements)
 -   [Usage examples](#usage-examples)
@@ -55,6 +55,36 @@ chmod +x *.sh
 ./install.sh
 ./reconftw.sh -d target.com -a
 ```
+
+## Usage
+```
+ReconFTW 0.91-beta1
+TARGET OPTIONS
+-d DOMAIN        Target domain
+-l list.txt      Targets list, one per line
+
+MODE OPTIONS
+-a               Perform all checks
+-s               Full subdomains scan (Subs, tko and probe)
+-g               Google dorks searchs
+-w               Perform web checks only without subs ${yellow}(-l required)${reset}\n"
+-t               Check subdomain takeover ${yellow}(-l required)${reset}\n"
+-i               Check all needed tools
+-v               Debug/verbose mode, no file descriptor redir
+-h               Show this help
+
+SUBDOMAIN OPTIONS
+--sp             Passive subdomain scans
+--sb             Bruteforce subdomain resolution
+--sr             Subdomain permutations and resolution ${yellow}(-l required)${reset}\n"
+--ss             Subdomain scan by scraping ${yellow}(-l required)${reset}\n"
+
+OUTPUT OPTIONS
+-o output/path   Define output folder
+
+
+```
+
 
 <p align="center">
   <a href="https://github.com/s0md3v/Photon/wiki">Photon Wiki</a> •
