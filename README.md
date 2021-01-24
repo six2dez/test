@@ -34,7 +34,7 @@ This is a live development project, until the first stable release (1.0) it will
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Features](#features)
--   [Mindmap](#mindmap)
+-   [Mindmap](#mindmapworkflow)
 -   [Improvement plan](#improvement-plan)
 -   [Thanks](#thanks)
 
