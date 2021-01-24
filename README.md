@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Automated framework for performing recon</h4>
+<h4 align="center">A simple bash script for performing recon</h4>
 
 <p align="center">
   <a href="https://github.com/six2dez/reconftw/releases/tag/0.9-beta1">
