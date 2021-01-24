@@ -14,7 +14,6 @@
  
 
 # Installation Guide
-  
 ## Configuring Go
 
 ### From Binary
