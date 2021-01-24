@@ -9,7 +9,7 @@
 <h4 align="center">Automated framework for performing recon</h4>
 
 <p align="center">
-  <a href="https://github.com/s0md3v/Photon/releases">
+  <a href="https://github.com/six2dez/reconftw/releases/tag/0.9-beta1">
     <img src="https://img.shields.io/github/release/s0md3v/Photon.svg">
   </a>
   <a href="https://pypi.org/project/photon/">
