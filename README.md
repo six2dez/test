@@ -48,12 +48,11 @@ ReconFTW performs automated enumeration of subdomains via various techniques and
 
 ## Installation
 
-```bash
-git clone https://github.com/six2dez/reconftw
-cd reconftw
-chmod +x *.sh
-./install.sh
-./reconftw.sh -d target.com -a
+```sh
+$ git clone https://github.com/six2dez/reconftw.git
+$ cd reconFTW
+$ chmod +x *.sh
+$ ./install.sh
 ```
 
 <p align="center">
