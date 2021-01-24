@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/six2dez/reconftw"><img src="https://i.ibb.co/cYXL58B/banner.png" alt="Photon"></a>
   <br>
-  Photon
+  ReconFTW
   <br>
 </h1>
 
