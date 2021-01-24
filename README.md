@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/six2dez/reconftw"><img src="<img src="https://i.ibb.co/cYXL58B/banner.png" alt="banner" border="0">" alt="ReconFTW"></a>
+  <a href="https://github.com/six2dez/reconftw"><img src="https://i.ibb.co/cYXL58B/banner.png" alt="Photon"></a>
   <br>
   Photon
   <br>
