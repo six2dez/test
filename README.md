@@ -20,6 +20,10 @@
     <img src="https://img.shields.io/badge/gitclones-2k%2B-yellow"
          alt="pypi">
   </a>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/build-passing-brightgreen">
+  </a>
   <a href="https://twitter.com/Six2dez1">
     <img src="https://img.shields.io/badge/twitter-%40Six2dez1-blue">
   </a>
