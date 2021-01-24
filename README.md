@@ -90,7 +90,7 @@ OUTPUT OPTIONS
 
 ```
 
-## Features
+## Features !
 
 - Google Dorks (based on deggogle_hunter)
 - Subdomain enumeration (passive, resolution, bruteforce and permutations)
