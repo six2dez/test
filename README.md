@@ -125,12 +125,12 @@ OUTPUT OPTIONS
 
 These are the last features that we have implemented, take a look at our pending [features](https://github.com/six2dez/reconftw/labels/feature) or suggest a new feature in the issues section:
 
-:heavy_check_mark:Open Redirect with Openredirex
-:heavy_check_mark: SSRF Checks
-:heavy_check_mark: More error checks
-:heavy_check_mark: More verbose
-:heavy_check_mark: Enhance this Readme
-:heavy_check_mark: Customize output folder
+:heavy_check_mark:Open Redirect with Openredirex  
+:heavy_check_mark: SSRF Checks  
+:heavy_check_mark: More error checks  
+:heavy_check_mark: More verbose  
+:heavy_check_mark: Enhance this Readme  
+:heavy_check_mark: Customize output folder  
 :heavy_check_mark: Interlace usage
 :heavy_check_mark: Crawler
 :heavy_check_mark: SubDomainizer
