@@ -125,7 +125,7 @@ OUTPUT OPTIONS
 
 These are the last features that we have implemented, take a look at our pending [features](https://github.com/six2dez/reconftw/labels/feature) or suggest a new feature in the issues section:
 
-- [X] Open Redirect with Openredirex
+:heavy_check_mark: Open Redirect with Openredirex
 - [X] SSRF Checks
 - [X] More error checks
 - [X] More verbose
