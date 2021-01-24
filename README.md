@@ -117,13 +117,9 @@ OUTPUT OPTIONS
 - Update tools script
 - Raspberry supported
 
+## Mindmap/Workflow
+
+![Mindmap](images/mindmap.png)
 
 
-<p align="center">
-  <a href="https://github.com/s0md3v/Photon/wiki">Photon Wiki</a> •
-  <a href="https://github.com/s0md3v/Photon/wiki/Usage">How To Use</a> •
-  <a href="https://github.com/s0md3v/Photon/wiki/Compatibility-&-Dependencies">Compatibility</a> •
-  <a href="https://github.com/s0md3v/Photon/wiki/Photon-Library">Photon Library</a> •
-  <a href="#contribution--license">Contribution</a> •
-  <a href="https://github.com/s0md3v/Photon/projects/1">Roadmap</a>
-</p>
+
