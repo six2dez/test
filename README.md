@@ -29,6 +29,16 @@
 
 This is a live development project, until the first stable release (1.0) it will be constantly updated in master branch, so if you have detected any bug, you can open an issue or ping me over Telegram (@six2dez) or Twitter (@six2dez1) and I will try to do my best :)
 
+# Table of Contents
+-   [tl;dr](#tldr)
+-   [Summary](#summary)
+-   [Features](#features)
+-   [Mindmap](#mindmapworkflow)
+-   [Requirements](#requirements)
+-   [Usage examples](#usage-examples)
+-   [Improvement plan](#improvement-plan)
+-   [Thanks](#thanks)
+
 
 
 ![demo](https://image.ibb.co/kQSUcz/demo.png)
