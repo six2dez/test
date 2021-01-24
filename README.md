@@ -12,8 +12,8 @@
   <a href="https://github.com/six2dez/reconftw/releases/tag/0.9-beta1">
     <img src="https://img.shields.io/badge/release-0.9--beta1-green">
   </a>
-  <a href="https://pypi.org/project/photon/">
-    <img src="https://img.shields.io/badge/twitter-%40Six2dez1-blue"
+  <a href="/">
+    <img src="https://img.shields.io/badge/forks-2k%2B-yellow"
          alt="pypi">
   </a>
   <a href="https://github.com/s0md3v/Photon/issues?q=is%3Aissue+is%3Aclosed">
