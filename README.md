@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
   </a>
   <a href="/">
-    <img src="https://img.shields.io/badge/gitclone-2k%2B-yellow"
+    <img src="https://img.shields.io/badge/gitclones-2k%2B-yellow"
          alt="pypi">
   </a>
   <a href="https://twitter.com/Six2dez1">
