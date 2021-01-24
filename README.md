@@ -59,6 +59,7 @@ chmod +x *.sh
 ## Usage
 ```
 ReconFTW 0.91-beta1
+
 TARGET OPTIONS
 -d DOMAIN        Target domain
 -l list.txt      Targets list, one per line
@@ -67,8 +68,8 @@ MODE OPTIONS
 -a               Perform all checks
 -s               Full subdomains scan (Subs, tko and probe)
 -g               Google dorks searchs
--w               Perform web checks only without subs ${yellow}(-l required)${reset}\n"
--t               Check subdomain takeover ${yellow}(-l required)${reset}\n"
+-w               Perform web checks only without subs ***(-l required)***
+-t               Check subdomain takeover***(-l required)***
 -i               Check all needed tools
 -v               Debug/verbose mode, no file descriptor redir
 -h               Show this help
@@ -76,8 +77,8 @@ MODE OPTIONS
 SUBDOMAIN OPTIONS
 --sp             Passive subdomain scans
 --sb             Bruteforce subdomain resolution
---sr             Subdomain permutations and resolution ${yellow}(-l required)${reset}\n"
---ss             Subdomain scan by scraping ${yellow}(-l required)${reset}\n"
+--sr             Subdomain permutations and resolution (-l required)
+--ss             Subdomain scan by scraping (-l required)
 
 OUTPUT OPTIONS
 -o output/path   Define output folder
