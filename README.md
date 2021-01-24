@@ -46,7 +46,7 @@ This is a live development project, until the first stable release (1.0) it will
 
 ## Summary
 
-ReconFTW performs automated enumeration of subdomains via various techniques and futher scanning for vulnerabilties, to give you a potential vulns.
+ReconFTW performs automated enumeration of subdomains via various techniques and futher scanning for vulnerabilties, to give you a potential vulns.(addd moreeeeeeeeeeeeeeee)
 
 
 ## Installation
