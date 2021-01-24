@@ -20,9 +20,6 @@
     <img src="https://img.shields.io/badge/forks-2k%2B-yellow"
          alt="pypi">
   </a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-      <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
-  </a>
   <a href="https://twitter.com/Six2dez1">
     <img src="https://img.shields.io/badge/twitter-%40Six2dez1-blue">
   </a>
