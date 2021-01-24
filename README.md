@@ -131,11 +131,11 @@ These are the last features that we have implemented, take a look at our pending
 :heavy_check_mark: More verbose  
 :heavy_check_mark: Enhance this Readme  
 :heavy_check_mark: Customize output folder  
-:heavy_check_mark: Interlace usage
-:heavy_check_mark: Crawler
-:heavy_check_mark: SubDomainizer
-:heavy_check_mark: Install script
-:heavy_check_mark: Apt,rpm,pacman compatible installer
+:heavy_check_mark: Interlace usage  
+:heavy_check_mark: Crawler  
+:heavy_check_mark: SubDomainizer  
+:heavy_check_mark: Install script  
+:heavy_check_mark: Apt,rpm,pacman compatible installer  
 
 You can support this work buying me a coffee:
 
