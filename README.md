@@ -88,7 +88,6 @@ OUTPUT OPTIONS
 
 ## Features
 
-- Tools checker
 - Google Dorks (based on deggogle_hunter)
 - Subdomain enumeration (passive, resolution, bruteforce and permutations)
 - Sub TKO (subjack and nuclei)
