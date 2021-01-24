@@ -13,14 +13,14 @@
     <img src="https://img.shields.io/badge/release-0.9--beta1-blue">
   </a>
   <a href="https://pypi.org/project/photon/">
-    <img src="https://img.shields.io/badge/pypi-@photon-red.svg?style=style=flat-square"
+    <img src="https://img.shields.io/badge/twitter-%40Six2dez1-blue"
          alt="pypi">
   </a>
   <a href="https://github.com/s0md3v/Photon/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed-raw/s0md3v/Photon.svg">
   </a>
-  <a href="https://travis-ci.com/s0md3v/Photon">
-    <img src="https://img.shields.io/travis/com/s0md3v/Photon.svg">
+  <a href="https://twitter.com/Six2dez1">
+    <img src="https://img.shields.io/badge/twitter-%40Six2dez1-blue">
   </a>
 </p>
 
