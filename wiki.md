@@ -36,7 +36,7 @@ $ chmod +x *.sh
 $ ./install.sh
 ```
 
-# Post Installation Configuration
+# Post Installation Guide
 #  
 ## Amass Config
 You will need a config file to use your API keys with Amass
