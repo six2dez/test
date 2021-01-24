@@ -87,6 +87,37 @@ OUTPUT OPTIONS
 
 ```
 
+## Features
+
+- Tools checker
+- Google Dorks (based on deggogle_hunter)
+- Subdomain enumeration (passive, resolution, bruteforce and permutations)
+- Sub TKO (subjack and nuclei)
+- Web Prober (httpx)
+- Web screenshot (aquatone)
+- Template scanner (nuclei)
+- Port Scanner (naabu)
+- Url extraction (waybackurls, gau, hakrawler, github-endpoints)
+- Pattern Search (gf and gf-patterns)
+- Param discovery (paramspider and arjun)
+- XSS (Gxss and dalfox)
+- Open redirect (Openredirex)
+- SSRF checks (from m4ll0k/Bug-Bounty-Toolz/SSRF.py)
+- Github Check (git-hound)
+- Favicon Real IP (fav-up)
+- JS Checks (LinkFinder, SecretFinder, scripts from JSFScan)
+- Fuzzing (ffuf)
+- Cors (Corsy)
+- SSL Check (testssl)
+- Interlace integration
+- Custom output folder (default under Recon/target.com/)
+- Run standalone steps (subdomains, subtko, web, gdorks...)
+- Polished installer compatible with most distros
+- Verbose mode
+- Update tools script
+- Raspberry supported
+
+
 
 <p align="center">
   <a href="https://github.com/s0md3v/Photon/wiki">Photon Wiki</a> •
