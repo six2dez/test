@@ -69,7 +69,6 @@ chmod +x *.sh
 ## Usage
 <pre>
 
-<h1>ReconFTW 0.91-beta1</h1>
 <b>TARGET OPTIONS</b>
 -d DOMAIN        Target domain
 -l list.txt      Targets list, one per line
