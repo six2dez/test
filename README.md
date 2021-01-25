@@ -65,7 +65,7 @@ chmod +x *.sh
   - favup (```shodan init <SHODANPAIDAPIKEY>```)
   - SSRF Server (```COLLAB_SERVER``` env var) 
   - Blind XSS Server (```XSS_SERVER``` env var) 
-  - Configure ```awscli``` by adding your access & secret keys
+  - Configure ```awscli``` by adding your AWS access & secret keys
 - This script uses dalfox with blind-xss option, you must change to your own server, check xsshunter.com.
 
 ## Usage
