@@ -68,8 +68,8 @@ chmod +x *.sh
 
 ## Usage
 <pre>
-ReconFTW 0.91-beta1
 
+<h1>ReconFTW 0.91-beta1</h1>
 <b>TARGET OPTIONS</b>
 -d DOMAIN        Target domain
 -l list.txt      Targets list, one per line
@@ -84,7 +84,7 @@ ReconFTW 0.91-beta1
 -v               Debug/verbose mode, no file descriptor redir
 -h               Show this help
 
-<b>SUBDOMAIN OPTIONS<b>
+<b>SUBDOMAIN OPTIONS</b>
 --sp             Passive subdomain scans
 --sb             Bruteforce subdomain resolution
 --sr             Subdomain permutations and resolution (-l required)
