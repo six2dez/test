@@ -67,14 +67,14 @@ chmod +x *.sh
 - This script uses dalfox with blind-xss option, you must change to your own server, check xsshunter.com.
 
 ## Usage
-```
+<pre>
 ReconFTW 0.91-beta1
 
-TARGET OPTIONS
+<b>TARGET OPTIONS</b>
 -d DOMAIN        Target domain
 -l list.txt      Targets list, one per line
 
-MODE OPTIONS
+<b>MODE OPTIONS</b>
 -a               Perform all checks
 -s               Full subdomains scan (Subs, tko and probe)
 -g               Google dorks searchs
@@ -84,17 +84,17 @@ MODE OPTIONS
 -v               Debug/verbose mode, no file descriptor redir
 -h               Show this help
 
-SUBDOMAIN OPTIONS
+<b>SUBDOMAIN OPTIONS<b>
 --sp             Passive subdomain scans
 --sb             Bruteforce subdomain resolution
 --sr             Subdomain permutations and resolution (-l required)
 --ss             Subdomain scan by scraping (-l required)
 
-OUTPUT OPTIONS
+<b>OUTPUT OPTIONS</b>
 -o output/path   Define output folder
 
 
-```
+</pre>
 
 ## Features 
 
