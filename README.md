@@ -72,31 +72,30 @@ chmod +x *.sh
 | -x 	| Exclude subdomains list (Out Of Scope) | ./reconftw -x oos.txt |
 
 
-<b>MODE OPTIONS</b>
--a               Perform all checks
--s               Full subdomains scan (Subs, tko and probe)
--g               Google dorks searches
--w               Perform web checks only without subs (-l required)
--t               Check subdomain takeover(-l required)
--i               Check all needed tools
--v               Debug/verbose mode, no file descriptor redir
--h               Show this help
-
-
+<b>MODE OPTIONS</b>  
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| -a	| Perform all checks	|./reconftw	|
-| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw |
+| -a	| Perform all checks	|./reconftw -d example.com -a	|
+| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw -d example.com -a |
 | -g  	| Google dorks searches |./reconftw |
-| -w| Perform web checks only without subs (-l required) | ./reconftw |
-| -t 	| Check subdomain takeover(-l required) | ./reconftw |
-| -i  	| Check all needed tools | ./reconftw |
-| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw |
-| -h	| Show this help | ./reconftw |
+| -w| Perform web checks only without subs (-l required) | ./reconftw -d example.com -a |
+| -t 	| Check subdomain takeover(-l required) | ./reconftw -d example.com -a |
+| -i  	| Check all needed tools | ./reconftw -d example.com -a |
+| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw -d example.com -v |
+| -h	| Show this help | ./reconftw -h |
 
 
-<b>SUBDOMAIN OPTIONS</b>
+<b>SUBDOMAIN OPTIONS</b>  
+
+| Flag | Description | Example |
+|------|-------------|---------|
+| --sp | Bruteforce subdomain resolution	|./reconftw -d example.com -a	|
+| --sb | Bruteforce subdomain resolution | ./reconftw -d example.com -a |
+| --sr |  Subdomain permutations and resolution (-l required) |./reconftw |
+| --ss | Subdomain scan by scraping (-l required) | ./reconftw -d example.com -a |
+
+
 --sp             Passive subdomain scans
 --sb             Bruteforce subdomain resolution
 --sr             Subdomain permutations and resolution (-l required)
