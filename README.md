@@ -64,9 +64,11 @@ chmod +x *.sh
 <pre>
 
 <b>TARGET OPTIONS</b>
--d DOMAIN        Target domain
--l list.txt      Targets list, one per line
--x oos.txt       Exclude subdomains list (Out Of Scope)
+| Argument   | Description                                                                                                  |
+|------------|--------------------------------------------------------------------------------------------------------------|
+| -d DOMAIN        Target domain |
+| -l list.txt      Targets list, one per line |
+| -x oos.txt       Exclude subdomains list (Out Of Scope) |
 
 <b>MODE OPTIONS</b>
 -a               Perform all checks
