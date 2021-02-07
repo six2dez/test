@@ -61,7 +61,7 @@ chmod +x *.sh
 
 ## Usage
 
-<pre>
+
 
 <b>TARGET OPTIONS</b>
 | Argument   | Description                                                                                                  |
@@ -90,8 +90,6 @@ chmod +x *.sh
 --deep           Deep scan (Enable some slow options for deeper scan)
 --fs             Full scope (Enable widest scope *domain* options)
 -o output/path   Define output folder
-
-</pre>
 
 ## :fire: Features :fire:
 
