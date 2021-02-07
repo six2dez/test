@@ -77,8 +77,8 @@ chmod +x *.sh
 | Flag | Description | Example |
 |------|-------------|---------|
 | -a	| Perform all checks	|./reconftw.sh -d abc.com -a	|
-| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw.sh -d sbc.com -s |
-| -g  	| Google dorks searches |./reconftw.sh -dabc.com -g |
+| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw.sh -d abc.com -s |
+| -g  	| Google dorks searches |./reconftw.sh -d abc.com -g |
 | -w| Perform web checks only without subs (-l required) | ./reconftw.sh -d abc.com -w |
 | -t 	| Check subdomain takeover(-l required) | ./reconftw.sh -d abc.com -a |
 | -i  	| Check all needed tools | ./reconftw.sh -i |
