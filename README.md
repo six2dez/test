@@ -67,7 +67,7 @@ chmod +x *.sh
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| -d	| Target domain 	|  ./reconftw.sh -d example.com	|
+| -d	| Target domain 	|  ./reconftw.sh -d abc.com	|
 | -l  	| Targets list, one per lineL | ./reconftw.sh -l sites.txt |
 | -x 	| Exclude subdomains list (Out Of Scope) | ./reconftw.sh -x oos.txt |
 
@@ -76,13 +76,13 @@ chmod +x *.sh
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| -a	| Perform all checks	|./reconftw.sh -d example.com -a	|
-| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw.sh -d example.com -s |
-| -g  	| Google dorks searches |./reconftw.sh -d example.com -g |
-| -w| Perform web checks only without subs (-l required) | ./reconftw.sh -d example.com -w |
-| -t 	| Check subdomain takeover(-l required) | ./reconftw.sh -d example.com -a |
+| -a	| Perform all checks	|./reconftw.sh -d abc.com -a	|
+| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw.sh -d sbc.com -s |
+| -g  	| Google dorks searches |./reconftw.sh -dabc.com -g |
+| -w| Perform web checks only without subs (-l required) | ./reconftw.sh -d abc.com -w |
+| -t 	| Check subdomain takeover(-l required) | ./reconftw.sh -d abc.com -a |
 | -i  	| Check all needed tools | ./reconftw.sh -i |
-| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw.sh -d example.com -v |
+| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw.sh -d abc.com -v |
 | -h	| Show this help | ./reconftw.sh -h |
 
 
@@ -90,21 +90,21 @@ chmod +x *.sh
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| --sp | Bruteforce subdomain resolution	|./reconftw -d example.com -a	|
-| --sb | Bruteforce subdomain resolution | ./reconftw -d example.com -a |
+| --sp | Bruteforce subdomain resolution	|./reconftw -d abc.com -a	|
+| --sb | Bruteforce subdomain resolution | ./reconftw -d abc.com -a |
 | --sr |  Subdomain permutations and resolution (-l required) |./reconftw |
-| --ss | Subdomain scan by scraping (-l required) | ./reconftw -d example.com -a |
+| --ss | Subdomain scan by scraping (-l required) | ./reconftw -d abc.com -a |
 
 
---sp             Passive subdomain scans
---sb             Bruteforce subdomain resolution
---sr             Subdomain permutations and resolution (-l required)
---ss             Subdomain scan by scraping (-l required)
+<b>GENERAL OPTIONS</b>  
 
-<b>GENERAL OPTIONS</b>
---deep           Deep scan (Enable some slow options for deeper scan)
---fs             Full scope (Enable widest scope *domain* options)
--o output/path   Define output folder
+| Flag | Description | Example |
+|------|-------------|---------|
+| --deep |  Deep scan (Enable some slow options for deeper scan)	|./reconftw -d abc.com -a --deep	|
+| --fs |  Full scope (Enable widest scope *domain* options) | ./reconftw -d abc.com -a --fs |
+| -o |  Subdomain permutations and resolution (-l required) |./reconftw -d abc.com -a -o /output/here/ |
+
+
 
 ## :fire: Features :fire:
 
