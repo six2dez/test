@@ -90,10 +90,10 @@ chmod +x *.sh
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| --sp | Bruteforce subdomain resolution	|./reconftw -d abc.com -a	|
-| --sb | Bruteforce subdomain resolution | ./reconftw -d abc.com -a |
-| --sr |  Subdomain permutations and resolution (-l required) |./reconftw |
-| --ss | Subdomain scan by scraping (-l required) | ./reconftw -d abc.com -a |
+| --sp | Bruteforce subdomain resolution	|./reconftw -d abc.com --sp	|
+| --sb | Bruteforce subdomain resolution | ./reconftw -d abc.com --sb |
+| --sr |  Subdomain permutations and resolution (-l required) |./reconftw -d abc.com --sr |
+| --ss | Subdomain scan by scraping (-l required) | ./reconftw -d abc.com --ss |
 
 
 <b>GENERAL OPTIONS</b>  
