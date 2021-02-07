@@ -80,7 +80,7 @@ chmod +x *.sh
 | -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw.sh -d abc.com -s |
 | -g  	| Google dorks searches |./reconftw.sh -d abc.com -g |
 | -w| Perform web checks only without subs (-l required) | ./reconftw.sh -d abc.com -w |
-| -t 	| Check subdomain takeover(-l required) | ./reconftw.sh -d abc.com -a |
+| -t 	| Check subdomain takeover(-l required) | ./reconftw.sh -d abc.com -t |
 | -i  	| Check all needed tools | ./reconftw.sh -i |
 | -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw.sh -d abc.com -v |
 | -h	| Show this help | ./reconftw.sh -h |
