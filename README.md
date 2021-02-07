@@ -67,23 +67,23 @@ chmod +x *.sh
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| -d	| Target domain 	|  ./reconftw -d example.com	|
-| -l  	| Targets list, one per lineL | ./reconftw -l sites.txt |
-| -x 	| Exclude subdomains list (Out Of Scope) | ./reconftw -x oos.txt |
+| -d	| Target domain 	|  ./reconftw.sh -d example.com	|
+| -l  	| Targets list, one per lineL | ./reconftw.sh -l sites.txt |
+| -x 	| Exclude subdomains list (Out Of Scope) | ./reconftw.sh -x oos.txt |
 
 
 <b>MODE OPTIONS</b>  
 
 | Flag | Description | Example |
 |------|-------------|---------|
-| -a	| Perform all checks	|./reconftw -d example.com -a	|
-| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw -d example.com -a |
-| -g  	| Google dorks searches |./reconftw |
-| -w| Perform web checks only without subs (-l required) | ./reconftw -d example.com -a |
-| -t 	| Check subdomain takeover(-l required) | ./reconftw -d example.com -a |
-| -i  	| Check all needed tools | ./reconftw -d example.com -a |
-| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw -d example.com -v |
-| -h	| Show this help | ./reconftw -h |
+| -a	| Perform all checks	|./reconftw.sh -d example.com -a	|
+| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw.sh -d example.com -s |
+| -g  	| Google dorks searches |./reconftw.sh -d example.com -g |
+| -w| Perform web checks only without subs (-l required) | ./reconftw.sh -d example.com -w |
+| -t 	| Check subdomain takeover(-l required) | ./reconftw.sh -d example.com -a |
+| -i  	| Check all needed tools | ./reconftw.sh -i |
+| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw.sh -d example.com -v |
+| -h	| Show this help | ./reconftw.sh -h |
 
 
 <b>SUBDOMAIN OPTIONS</b>  
