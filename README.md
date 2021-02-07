@@ -64,11 +64,11 @@ chmod +x *.sh
 
 
 <b>TARGET OPTIONS</b>
-| Argument    | Description                                                                                                  |
-|------------ |--------------------------------------------------------------------------------------------------------------|
-| -d DOMAIN   |       Target domain |
-| -l list.txt |     Targets list, one per line |
-| -x oos.txt  |     Exclude subdomains list (Out Of Scope) |
+| Flag        | Description        |     Example                           |
+|------------ |----------------------------------------------------|
+| -d    |     Target domain      |           ./reconftw -d example.com               |
+| -l  |     Targets list, one per line  |     ./reconftw -l sites.txt              |
+| -x   |     Exclude subdomains list (Out Of Scope) |        ./reconftw -x oos.txt |
 
 <b>MODE OPTIONS</b>
 -a               Perform all checks
