@@ -68,7 +68,7 @@ chmod +x *.sh
 | Flag | Description | Example |
 |------|-------------|---------|
 | -d	| Target domain 	|  ./reconftw.sh -d abc.com	|
-| -l  	| Targets list, one per lineL | ./reconftw.sh -l sites.txt |
+| -l  	| Targets list, one per line | ./reconftw.sh -l sites.txt |
 | -x 	| Exclude subdomains list (Out Of Scope) | ./reconftw.sh -x oos.txt |
 
 
