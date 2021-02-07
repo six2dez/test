@@ -82,6 +82,20 @@ chmod +x *.sh
 -v               Debug/verbose mode, no file descriptor redir
 -h               Show this help
 
+
+
+| Flag | Description | Example |
+|------|-------------|---------|
+| -a	| Perform all checks	|./reconftw	|
+| -s 	| Full subdomains scan (Subs, tko and probe) | ./reconftw |
+| -g  	| Google dorks searches |./reconftw |
+| -w| Perform web checks only without subs (-l required) | ./reconftw |
+| -t 	| Check subdomain takeover(-l required) | ./reconftw |
+| -i  	| Check all needed tools | ./reconftw |
+| -v 	| Debug/verbose mode, no file descriptor redir | ./reconftw |
+| -h	| Show this help | ./reconftw |
+
+
 <b>SUBDOMAIN OPTIONS</b>
 --sp             Passive subdomain scans
 --sb             Bruteforce subdomain resolution
